@@ -1,0 +1,8 @@
+.wrapper{
+    display:flex;
+    flex-direction: row;
+    width:65vw;
+    height: 45vh;
+    margin:10rem auto;
+    background-color: lightgrey;
+}

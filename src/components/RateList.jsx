@@ -13,14 +13,3 @@ function RateList() {
 }
 
 export default RateList
-
-
-// function RateList() {
-//     return (
-//        <div className={styles.wrapper}> 
-//            {Records.map((record) => <Rate title={record.title} price={record.price} speed={record.speed} text={record.text} color={record.color} size={record.size}/>)}
-//        </div>
-//    )
-// }
-
-// export default RateList
